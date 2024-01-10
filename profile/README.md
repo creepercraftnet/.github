@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Creepercraft has the objective to create a nice community into different games<br> (such as: Minecraft, Roblox, etc...) and that<br>has something to do also with music, animation and mutch more ;)
 
 
@@ -18,13 +18,13 @@ Creepercraft has the objective to create a nice community into different games<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+### 🥵 Weir memes Generator
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=giocoliere&icon=0&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help us by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/creepercraft) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/creepercraftoff) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/creepercraft) 
 
   
