@@ -18,7 +18,7 @@ Creepercraft has the objective to create a nice community into different games<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🥵 Weir memes Generator
+### 🥵 Weird memes Generator
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
