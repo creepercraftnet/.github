@@ -1,5 +1,5 @@
 # 💫 About Us:
-Creepercraft has the objective to create a nice community into different games<br> (such as: Minecraft, Roblox, etc...) and that<br>has something to do also with music, animation and mutch more ;)
+Creepercraft has the objective to create a nice community into different games<br> (such as: Minecraft, Roblox, etc...) and that<br>has something to do also with music, animation and more ;)
 
 
 ## 🌐 Socials:
